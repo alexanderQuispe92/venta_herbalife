@@ -1,0 +1,3 @@
+Nombre y Apellidos: Alexander Quispe Quispe
+Gustos1: jugar futbol y videojuegos
+Gustos2: Cocinar
